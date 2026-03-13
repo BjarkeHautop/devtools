@@ -1,4 +1,4 @@
-# devtools (development version)
+# devtools 2.5.0
 
 Deprecations
 
